@@ -1,0 +1,12 @@
+C:\Users\Oded\source\repos\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\obj\Debug\Ex05_GameLogic.csprojAssemblyReference.cache
+C:\Users\Oded\source\repos\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\obj\Debug\Ex05_GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Oded\source\repos\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\bin\Debug\Ex05_GameLogic.dll
+C:\Users\Oded\source\repos\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\bin\Debug\Ex05_GameLogic.pdb
+C:\Users\Oded\source\repos\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\obj\Debug\Ex05_GameLogic.dll
+C:\Users\Oded\source\repos\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\obj\Debug\Ex05_GameLogic.pdb
+C:\Users\Crazy\Desktop\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\bin\Debug\Ex05_GameLogic.dll
+C:\Users\Crazy\Desktop\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\bin\Debug\Ex05_GameLogic.pdb
+C:\Users\Crazy\Desktop\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\obj\Debug\Ex05_GameLogic.csprojAssemblyReference.cache
+C:\Users\Crazy\Desktop\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\obj\Debug\Ex05_GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Crazy\Desktop\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\obj\Debug\Ex05_GameLogic.dll
+C:\Users\Crazy\Desktop\B19 Ex05 Oded 305387680 Tal 205890791\Ex05_GameLogic\obj\Debug\Ex05_GameLogic.pdb
